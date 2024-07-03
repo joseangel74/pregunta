@@ -1,0 +1,7 @@
+.tarjeta-container{
+    display: flex;
+    flex-direction: row;
+    background-color: #29292E;
+    width: 700px;
+    height: 250px;
+}
