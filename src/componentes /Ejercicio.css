@@ -1,0 +1,11 @@
+.ejercicio-container{
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+    align-items: center;
+}
+img{
+    width: 200px;
+    height: 200px;
+    padding-left: 20px;
+}
